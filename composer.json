@@ -1,0 +1,16 @@
+{
+    "name": "test/test",
+    "description": "test",
+    "type": "no",
+    "license": "no",
+    "authors": [
+        {
+            "name": "Chmut Vladimir",
+            "email": "bandanere@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0@dev"
+    }
+}
